@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "container:"
+      name = "easy">
+      <FileRef
+         location = "group:1&#x4e24;&#x6570;&#x4e4b;&#x548c;.playground">
+      </FileRef>
+      <FileRef
+         location = "group:7&#x6574;&#x6570;&#x53cd;&#x8f6c;.playground">
+      </FileRef>
+      <FileRef
+         location = "group:9&#x56de;&#x6587;&#x6570;.playground">
+      </FileRef>
+      <FileRef
+         location = "group:13&#x7f57;&#x9a6c;&#x6570;&#x5b57;&#x8f6c;&#x6574;&#x6570;.playground">
+      </FileRef>
+      <FileRef
+         location = "group:14&#x6700;&#x957f;&#x516c;&#x5171;&#x524d;&#x7f00;.playground">
+      </FileRef>
+      <FileRef
+         location = "group:20&#x6709;&#x6548;&#x7684;&#x62ec;&#x53f7;.playground">
+      </FileRef>
+      <FileRef
+         location = "group:21&#x5408;&#x5e76;&#x4e24;&#x4e2a;&#x6709;&#x5e8f;&#x94fe;&#x8868;.playground">
+      </FileRef>
+      <FileRef
+         location = "group:/Users/mahaomeng/Desktop/iOS_interview/LeetCode/26&#x5220;&#x9664;&#x6709;&#x5e8f;&#x6570;&#x7ec4;&#x4e2d;&#x7684;&#x91cd;&#x590d;&#x9879;.playground">
+      </FileRef>
+      <FileRef
+         location = "group:27&#x79fb;&#x9664;&#x5143;&#x7d20;.playground">
+      </FileRef>
+   </Group>
+   <Group
+      location = "container:"
+      name = "other">
+      <FileRef
+         location = "group:facebook-path.playground">
+      </FileRef>
+   </Group>
+</Workspace>
