@@ -47,5 +47,11 @@
       <FileRef
          location = "group:facebook-path.playground">
       </FileRef>
+      <FileRef
+         location = "group:&#x9012;&#x5f52;&#x521d;&#x4f53;&#x9a8c;-&#x6c42;&#x548c;.playground">
+      </FileRef>
+      <FileRef
+         location = "group:qiuck-sort.playground">
+      </FileRef>
    </Group>
 </Workspace>
