@@ -1,7 +1,7 @@
 import UIKit
 
 /**
- 快排初体验
+ 快排初体验 O(nlogn)
  */
 
 func qiuckSort(_ nums: [Int]) -> [Int] {

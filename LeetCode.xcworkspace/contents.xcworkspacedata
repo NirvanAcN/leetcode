@@ -53,5 +53,8 @@
       <FileRef
          location = "group:qiuck-sort.playground">
       </FileRef>
+      <FileRef
+         location = "group:&#x4ea4;&#x6362;&#x4e24;&#x4e2a;&#x53d8;&#x91cf;.playground">
+      </FileRef>
    </Group>
 </Workspace>
